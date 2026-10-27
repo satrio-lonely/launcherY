@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme with Dark Window background for Glassmorphism -->
+    <style name="Theme.LauncherY" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#1E1A1B</item>
+        <item name="android:navigationBarColor">#1E1A1B</item>
+        <item name="android:windowBackground">#1E1A1B</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

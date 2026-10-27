@@ -1,0 +1,8 @@
+<resources>
+    <color name="charcoal_bg_start">#1E1A1B</color>
+    <color name="charcoal_bg_end">#2B2627</color>
+    <color name="accent_red">#C2413B</color>
+    <color name="white_glass_fill">#14FFFFFF</color>
+    <color name="white_glass_border">#26FFFFFF</color>
+    <color name="text_primary">#F5F5F7</color>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LauncherY</string>
+
+    <!-- Top Navigation Tabs -->
+    <string name="tab_main">MAIN</string>
+    <string name="tab_plugin">PLUGIN</string>
+    <string name="tab_archive">ARCHIVE</string>
+
+    <!-- Main Screen -->
+    <string name="greeting_format">HI %1$s</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="no_recent_plugin">Belum ada plugin</string>
+    <string name="quick_switch_plugins">Buka daftar plugin</string>
+    <string name="notes_label">NOTES</string>
+    <string name="profile_label">PROFILE</string>
+    <string name="language_toggle">Ganti Bahasa</string>
+    <string name="language_en">EN</string>
+    <string name="language_id">ID</string>
+
+    <!-- Plugin Screen -->
+    <string name="plugins_title">Plugins</string>
+    <string name="add_plugin">Tambah Plugin</string>
+    <string name="select_absplugin_file">Pilih file .absplugin</string>
+    <string name="plugin_detail_title">Detail Plugin</string>
+    <string name="delete_plugin">Hapus Plugin</string>
+
+    <!-- Archive Screen -->
+    <string name="archive_title">Archive</string>
+    <string name="upload_file">Upload</string>
+    <string name="new_folder">Folder Baru</string>
+    <string name="empty_archive">Arsip Kosong</string>
+    <string name="empty_archive_desc">Belum ada file atau folder tersimpan di sini</string>
+
+    <!-- Common / Actions -->
+    <string name="close">Tutup</string>
+    <string name="cancel">Batal</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="open">Buka</string>
+</resources>
